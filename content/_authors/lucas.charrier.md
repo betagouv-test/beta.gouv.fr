@@ -6,7 +6,7 @@ github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
   - start: 2021-01-04
-    end: 2022-01-30
+    end: 2022-01-20
     status: admin
     employer: DINUM
 previously:
