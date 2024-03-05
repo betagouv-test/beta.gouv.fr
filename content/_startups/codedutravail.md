@@ -1,8 +1,8 @@
 ---
-title: Code du travail numérique xxx 42
+title: Code du travail numérique 2
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
-  - /organisations/dgt
+  - /organisations//organisations/dgt
 incubator: sgmas
 phases:
   - name: investigation
@@ -27,6 +27,7 @@ usertypes:
   - entreprise
   - particulier
 accessibility_status: non conforme
+analyse_risques_url: '42'
 ---
 ## Qu’est-ce que le Code du travail numérique ?
 
