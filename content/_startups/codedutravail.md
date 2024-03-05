@@ -1,5 +1,5 @@
 ---
-title: Code du travail numérique io
+title: Code du travail numérique 2
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
   - /organisations//organisations/dgt
