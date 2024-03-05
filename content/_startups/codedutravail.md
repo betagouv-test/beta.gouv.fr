@@ -1,8 +1,8 @@
 ---
-title: Code du travail numérique 23
+title: Code du travail numérique 234
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
-  - /organisations//organisations//organisations/dgt
+  - /organisations//organisations//organisations//organisations/dgt
 incubator: sgmas
 phases:
   - name: investigation
