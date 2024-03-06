@@ -1,7 +1,7 @@
 ---
 fullname: Lucas Charrier
 domaine: Développement
-role: Développeur web
+role: Développeur Tst
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
@@ -9,8 +9,6 @@ missions:
     end: 2022-01-03
     status: admin
     employer: DINUM
-    startups:
-      - acces.majeur.protege
   - start: 2022-01-04
     end: 2023-01-08
     status: independent
