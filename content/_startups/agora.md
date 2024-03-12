@@ -1,5 +1,5 @@
 ---
-title: Agora
+title: Agora 2
 link: https://www.agora.gouv.fr/
 mission: La première appli fait dialoguer les citoyens et le Gouvernement
 repository: https://github.com/agora-gouv/agora-app
