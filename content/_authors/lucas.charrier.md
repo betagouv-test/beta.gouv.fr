@@ -1,6 +1,6 @@
 ---
 fullname: Lucas Charrier
-domaine: Développement
+domaine: Intraprenariat
 role: Développeur Fullstack
 github: LucasCharrier
 link: https://lucascharrier.com/
@@ -23,5 +23,8 @@ competences:
   - Développement Frontend
 teams:
   - /teams/communaute-dinum
+bio: Développeur Web Fullstack
+communication_email: primary
+legal_status: EURL
 ---
 Développeur Web Fullstack
