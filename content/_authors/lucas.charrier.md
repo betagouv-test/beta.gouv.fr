@@ -1,6 +1,6 @@
 ---
 fullname: Lucas Charrier
-domaine: Intraprenariat
+domaine: Développement
 role: Développeur Fullstack
 github: LucasCharrier
 link: https://lucascharrier.com/
