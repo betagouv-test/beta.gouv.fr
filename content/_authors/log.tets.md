@@ -9,9 +9,8 @@ missions:
     employer: Scopyleft
     startups:
       - a-dock
-link: http://alink
-github: jeanmichel
+github: test
 username: log.tets
 memberType: beta
 ---
-test
+dasasd aksldaksd
