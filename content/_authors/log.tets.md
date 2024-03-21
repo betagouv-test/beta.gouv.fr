@@ -9,9 +9,7 @@ missions:
     employer: Scopyleft
     startups:
       - a-dock
-github: githubaccount
 username: log.tets
 memberType: beta
-link: http://testdelien
 ---
 test de bio
