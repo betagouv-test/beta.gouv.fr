@@ -7,4 +7,6 @@ missions:
     end: 2025-04-21
     status: independent
     employer: ''
+username: alphone.brown
+memberType: beta
 ---
