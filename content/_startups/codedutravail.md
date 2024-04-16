@@ -4,6 +4,7 @@ mission: Faciliter l'accès au droit du travail pour les entreprises et les empl
 sponsors:
   - /organisations/dgt
   - /organisations/xxxx-1
+  - /organisations/ccc-1
 incubator: sgmas
 phases:
   - name: investigation
