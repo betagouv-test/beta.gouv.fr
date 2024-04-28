@@ -1,5 +1,5 @@
 ---
-title: Code du travail numérique
+title: Code du travail numérique 4200
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
   - /organisations/dgt
@@ -27,11 +27,12 @@ techno:
 usertypes:
   - entreprise
   - particulier
+  - association
 stats_url: https://code.travail.gouv.fr/stats
 thematiques:
   - Travail / Emploi
 ---
-## Le contexte
+## Le contexte 2
 
 Ordonnance travail 2017 :
 « La version du code du travail numérique est mise en place au plus tard le 1er janvier 2020 en vue de permettre et faciliter l’accès à toute personne au droit du travail et aux dispositions législatives et réglementaires ainsi qu’aux stipulations conventionnelles applicables. L’accès à ce code se fait, de manière gratuite, au moyen du service public de la diffusion du droit par l'internet. »
